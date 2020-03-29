@@ -23,3 +23,16 @@ links:
     collection: faq
   - title: Media Releases
     resource_room: true
+  - title: Care and Support Package 2020
+    url: /care-and-support-package-2020/
+    sub-links:
+  - title: Overview
+    url: /overview/
+  - title: Care and Support – Cash [Enhanced]
+    url: /cash-enhanced/
+  - title: PAssion Card Top-up [Changed]
+    url: /passion-card-top-up/
+  - title: Workfare Special Payment [Enhanced]
+    url: /workfare-special-payment/
+  - title: Grocery Vouchers [Enhanced]
+    url: /grocery-vouchers/
