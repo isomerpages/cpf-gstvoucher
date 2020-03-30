@@ -24,7 +24,7 @@ collections:
 resources_name: media-releases
 
 collections:
-    care-and-support-package-2020:
+  pat-testing-folder:
     output: true
 
 ##################################################################################################################
