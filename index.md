@@ -9,7 +9,7 @@ sections:
     - hero:
         title: Scheme ABC
         subtitle: Providing assurance and support to Singaporeans
-        background: /images/Scheme banner.jpg
+        background: /images/Scheme ABC banner 2.jpg
         button: Click here to Login to eService
         url: /contact-us/
         key_highlights:
