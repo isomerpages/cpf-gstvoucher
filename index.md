@@ -4,7 +4,7 @@ title: Scheme ABC
 description: Brief site description here
 image: /images/Scheme logo.png
 permalink: /
-notification: Here's a notification bar you can use!
+notification: On 1st jan 2020, the Minister announced Scheme ABC
 sections:
     - hero:
         title: Scheme ABC
