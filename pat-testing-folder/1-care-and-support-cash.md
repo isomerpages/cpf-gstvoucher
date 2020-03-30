@@ -12,4 +12,4 @@ Singaporeans aged 50 years and above in 2020 will also receive their $100 PAssio
 Eligible citizens will receive letter notifications by August 2020, and the payouts will be given from end-August 2020.
 
 <div align='center'>Table 1: Care and Support – Cash</div>
-![alt text](cpf-gstvoucher/images/care-and-support-cash-payout.png/"Entitlement")
+image-url: (cpf-gstvoucher/images/care-and-support-cash-payout.png/"Entitlement")
