@@ -25,3 +25,8 @@ links:
     resource_room: true
   - title: Care and Support Package 2020
     collection: _care-and-support-package-2020
+  - title: Care and Support Package 2020
+    url: /_care-and-support-package-2020/0-overview/
+    sub-links:
+    - title: Care and Support - Cash
+      url: /_care-and-support-package-2020/1-care-and-support-cash/
