@@ -2,14 +2,14 @@
 layout: homepage
 title: Scheme ABC
 description: Brief site description here
-image: /images/isomer-logo.svg
+image: /images/Scheme logo.png
 permalink: /
 notification: Here's a notification bar you can use!
 sections:
     - hero:
         title: Scheme ABC
         subtitle: Providing assurance and support to Singaporeans
-        background: /images/hero-banner.png
+        background: /images/Scheme banner.jpg
         button: Contact Us
         url: /contact-us/
         key_highlights:
