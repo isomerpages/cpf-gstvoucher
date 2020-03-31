@@ -2,26 +2,23 @@
 layout: homepage
 title: Scheme ABC
 description: Brief site description here
-image: /images/Scheme logo.png
+image: /images/SchemeABClogo.jpg
 permalink: /
 notification: On 1st jan 2020, the Minister announced Scheme ABC
 sections:
     - hero:
         title: Scheme ABC
-        subtitle: Providing assurance and support to Singaporeans
+        subtitle: Providing Assurance to the People
         background: /images/Scheme ABC banner 2.jpg
         button: Click here to Login to eService
         url: /contact-us/
         key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
-              url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
-              url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
-              url: /privacy/
+            - title: FIND OUT HOW MUCH YOU WILL RECEIVED
+              description: Login to find out! 
+            - title: LET US KNOW HOW TO PAY YOU
+              description: Login to update your payment instruction
+            - title: Have a question?
+              description: Login to ask us a question!             
     - infobar:
         title: GST Voucher eServices
         subtitle: Log in to
