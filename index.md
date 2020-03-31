@@ -24,7 +24,7 @@ sections:
         subtitle: BUDGET 2300
         description: As announced on 1 Jan 2300, the Sector will enhance the introduce the Assurance and Support Package to provide more assurance and support to Singaporeans who are concerned about coping with their household expenses during this period of extraordinary economic uncertainty. All adult Singaporeans will benefit, with more help given to the less well-off.
     - resources:
-        title: News
-        subtitle: Learn more
+        title: Learn more about the other schemes here
+        subtitle:
         button: View More
 ---
