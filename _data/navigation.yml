@@ -17,6 +17,6 @@ links:
     url: /u-save/
   - title: Media Releases
     resource_room: true
-    - title: Contact Us
+  - title: Contact Us
     url: /contact-us/
 
