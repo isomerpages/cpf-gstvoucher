@@ -4,29 +4,18 @@
 #                                #
 ##################################
 
-logo: /images/isomer-logo.svg
+logo: /images/SchemeABClogo.svg
 
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: About Gst Voucher
+  - title: About Scheme ABC
     url: /about-gst-voucher/
-  - title: Cash
+  - title: What are the benefits I will receive?
     url: /cash/
-  - title: Medisave
+  - title: Calculator
     url: /medisave/
-  - title: U Save
+  - title: FAQs
     url: /u-save/
-  - title: 2020 Budget Announcements
-    url: /2020-budget-announcements/
-  - title: Faq
-    collection: faq
   - title: Media Releases
     resource_room: true
-  - title: Care and Support Package 2020
-    collection: _care-and-support-package-2020
-  - title: Care and Support Package 2020
-    url: /_care-and-support-package-2020/0-overview/
-    sub-links:
-    - title: Care and Support - Cash
-      url: /_care-and-support-package-2020/1-care-and-support-cash/
+    - title: Contact Us
+    url: /contact-us/
