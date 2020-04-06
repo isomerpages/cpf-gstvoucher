@@ -18,9 +18,9 @@ colors:
     - title: media-color-five
       color: '#00838f'
 
-#collections:
-#    faq:
-#    output: true
+collections:
+    faq:
+    output: true
   
     resources_name: media-releases
   
