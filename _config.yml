@@ -18,15 +18,15 @@ colors:
     - title: media-color-five
       color: '#00838f'
 
-collections:
-    faq:
-    output: true
+#collections:
+#    faq:
+#    output: true
   
     resources_name: media-releases
   
-collections:
-    care-and-support-package-2020:
-    output: true
+#collections:
+#    care-and-support-package-2020:
+#    output: true
     
 ##################################################################################################################
 # Everything below this line is Isomer-specific configuration. There should not be a need to edit these settings #
