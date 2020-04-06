@@ -21,9 +21,7 @@ colors:
 collections:
   faq:
   output: true
-resources_name: media-releases
-
-collections:
+  resources_name: media-releases
   care-and-support-package-2020:
   output: true
 
