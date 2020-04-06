@@ -6,16 +6,15 @@
 logo: /images/SchemeABClogo.svg
     
 
-links:
-  - title: About Scheme WhyLikeThis
-    url: /abtschemeABC/
-  - title: What are the benefits I will receive?
-    url: /cashandsupport2020/
-  - title: Calculator
-    url: /medisave/
-  - title: FAQ
-    url: /u-save/
-  - title: Media Releases
-    resource_room: true
-  - title: Contact Us
-    url: /contact-us/
+- title: About Scheme WhyLikeThis
+  url: /abtschemeABC/
+- title: What are the benefits I will receive?
+  url: /cashandsupport2020/
+- title: Calculator
+  url: /medisave/
+- title: FAQ
+  url: /u-save/
+- title: Media Releases
+  resource_room: true
+- title: Contact Us
+  url: /contact-us/
