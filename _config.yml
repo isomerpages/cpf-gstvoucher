@@ -20,12 +20,12 @@ colors:
 
 collections:
   faq:
-    output: true
+  output: true
 resources_name: media-releases
 
 collections:
   care-and-support-package-2020:
-    output: true
+  output: true
 
 ##################################################################################################################
 # Everything below this line is Isomer-specific configuration. There should not be a need to edit these settings #
