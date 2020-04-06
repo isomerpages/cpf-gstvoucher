@@ -5,18 +5,11 @@
 ##################################
 
 logo: /images/SchemeABClogo.svg
-
+    
 links:
   - title: About Scheme ABC
+    url: /_care-and-support-package-2020/0-overview.md
     url: /abtschemeABC/
   - title: What are the benefits I will receive?
-    url: /_care-and-support-package-2020/
+    url: /_care-and-support-package-2020/1-care-and-support-cash.md
   - title: Calculator
-    url: /medisave/
-  - title: FAQs
-    url: /u-save/
-  - title: Media Releases
-    resource_room: true
-  - title: Contact Us
-    url: /contact-us/
-    
