@@ -1,6 +1,6 @@
 ---
 title: AARON TEST PAGE
-permalink: /test/aaron_landing
+permalink: /test/aaron-landing
 ---
 
 test body text
