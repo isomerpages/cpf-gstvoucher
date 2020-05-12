@@ -9,3 +9,8 @@ logo: /images/isomer-logo.svg
 links:
   - title: Contact Us
     url: /contact-us/
+  - title: Test
+    collection: test
+  - title: About Scheme ABC
+    url: /abtschemeABC/
+  
