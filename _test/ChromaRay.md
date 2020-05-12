@@ -1,4 +1,4 @@
 ---
 title: Chroma Ray's Page
-permalink:/test/ChromaRay
+permalink: /test/ChromaRay
 ---
