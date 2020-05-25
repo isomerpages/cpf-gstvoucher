@@ -1,47 +1,32 @@
 ---
 layout: homepage
-title: Ministry of ABC
-description: The Ministry of ABC is the ministry in charge of XYZ
+title: Service Assurance Package (SAP)
+description: Brief description
 permalink: /
-notification: Initiative A will be launching soon! <a href="/register/">Register now</a>
+notification: BREAKING NEWS - 200 more AI robots diagnosed with SKYNET-3020 as new cases in Singapore edged up to 52,000
 sections:
     - hero:
-        title: Ministry of ABC
-        subtitle: We provide Singaporeans with XYZ services
-        background: /images/banner.png
+        title: Service Assurance Package (SAP)
+        subtitle: Providing Assurance to the People
+        background: /images/hero-banner.png
         url: /contact-us/
-        button: Contact
+        button: Click here to Login to eService
         key_highlights:
-            - title: ABC services
-              description: Find out what ABC can do for you
+            - title: What happened?
+              description: Click here to find out!
               url: /services/
-            - title: Our Annual Reports
+            - title: How much will i receive?
+              description: Login to find out!
               url: /annual-reports/
-            - title: Join ABC
-              description: Unleash your passion and be rewarded with a fulfilling career!
+            - title: Have a Question?
+              description: Login to ask us!
               url: /careers/
     - infobar:
-        title: Work for the public good
-        subtitle: Careers
-        description: Start a fulfulling and rewarding career with the Ministry of ABC!
-        button: Join Us
+        title: Support And Assurance for All
+        subtitle: BUDGET 3020
+        description: In Budget 3020, the Government announced a one-off Service Assurance Package (SAP) payment for all eligible citizens. This measures are part of the nation’s effort to help all Singaporeans with their household expenses during this period of uncertainty. All adult Singaporeans will benefit, with more help given to the less well-off.
+        button: Learn more
         url: /careers/
-    - infopic:
-        title: Integrity
-        subtitle: Core Values
-        description: Integrity drives everything we do at the Ministry of ABC
-        button: Learn More
-        url: /core-values/
-        image: /images/integrity.png
-        alt: Members of the Ministry of ABC shaking hands
-    - infopic:
-        title: Professionalism
-        subtitle: Core Values
-        description: We strive to deliver work of the highest calibre
-        button: Learn More
-        url: /core-values/
-        image: /images/professionalism.png
-        alt: Members of the Ministry of ABC in suits
     - resources:
         title: Media
         subtitle: Learn more
