@@ -9,7 +9,9 @@ logo: /images/isomer-logo.svg
 links:
   - title: Contact Us
     url: /contact-us/
-  - title: Test
-    collection: test
   - title: What Happened
     url: /pages/what-happened/
+  - title: Service Assurance Package
+    url: /pages/service-assurance-package/
+  - title: Test
+    collection: test
