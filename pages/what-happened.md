@@ -3,7 +3,9 @@ title: What happened?
 permalink: /pages/what-happened/
 ---
 
-In the year 3020, the world was crippled by a new computer super virus called **SKYNET-3020**. SKYNET-3020 causes temporary damage to the neural network of AI robots around the world, mutating in-built logics and pre-defined configurations, triggering AI robots to cause intentional harm to humans within its vicinity of 10 metres. 
+In the year 3020, the world was crippled by a new computer super virus called...
+## SKYNET-3020
+SKYNET-3020 causes temporary damage to the neural network of AI robots around the world, mutating in-built logics and pre-defined configurations, triggering AI robots to cause intentional harm to humans within its vicinity of 10 metres. 
 Currently, there are 50,000 infected AI robots reported in Singapore.
 
 Computer scientist from Singapore AI Regulatory Authority (SARA) had deployed antivirus software and strengthened firewalls of infected AI robots in hope to eliminate SKYNET-3020 but to no avail.
