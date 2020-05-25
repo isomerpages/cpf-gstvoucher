@@ -1,4 +1,0 @@
----
-title: Cash
-permalink: /cash/
----
