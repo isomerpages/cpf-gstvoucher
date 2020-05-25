@@ -4,19 +4,19 @@ favicon: /images/favicon-isomer.ico
 
 # Site colors
 colors:
-  primary-color: '#228B22'
-  secondary-color: '#008000'
+  primary-color: '#25245D'
+  secondary-color: '#571C56'
   media-colors:
     - title: media-color-one
-      color: '#49759a'
+      color: '#1A5678'
     - title: media-color-two
-      color: '#744d9f'
+      color: '#159097'
     - title: media-color-three
-      color: '#00838f'
+      color: '#38A48C'
     - title: media-color-four
-      color: '#00838f'
+      color: '#F8D092'
     - title: media-color-five
-      color: '#00838f'
+      color: '#E98E86'
 
 resources_name: media-releases
 
