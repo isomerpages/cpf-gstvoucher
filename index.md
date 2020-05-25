@@ -2,14 +2,14 @@
 layout: homepage
 title: Service Assurance Package (SAP)
 description: Brief site description here
-image: /images/SAP_banner.jpg
+image: /images/hero-banner.png/
 permalink: /
 notification: BREAKING NEWS: 200 more AI robots diagnosed with SKYNET-3020 as new cases in Singapore edged up to 52,000
 sections:
     - hero:
         title: Service Assurance Package (SAP)
         subtitle: Providing Assurance to the People
-        background: /images/SAP_banner.jpg
+        background: /images/hero-banner.png/
         button: Click here to Login to eService
         url: /contact-us/
         key_highlights:
