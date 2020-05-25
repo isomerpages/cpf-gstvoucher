@@ -11,16 +11,17 @@ sections:
         background: /images/SAP_banner.jpg
         url: /contact-us/
         button: Click here to Login to eService
+        url: https://www.gstvoucher.gov.sg/Pages/index.aspx
         key_highlights:
             - title: What happened?
               description: Click here to find out!
-              url: /services/
+              url: /pages/what-happened/
             - title: How much will i receive?
               description: Login to find out!
-              url: /annual-reports/
+              url: /_SAP/1-benefits/
             - title: Have a Question?
               description: Login to ask us!
-              url: /careers/
+              url: https://www.gstvoucher.gov.sg/Pages/index.aspx
     - infobar:
         title: Support And Assurance for All
         subtitle: BUDGET 3020
