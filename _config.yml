@@ -19,7 +19,6 @@ colors:
       color: '#E98E86'
 
 resources_name: media-releases
-    future: true
 
 collections:
   faq:
