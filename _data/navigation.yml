@@ -12,6 +12,6 @@ links:
   - title: What Happened
     url: /pages/what-happened/
   - title: Service Assurance Package
-    url: /pages/service-assurance-package/
+    collection: SAP
   - title: Test
     collection: test
