@@ -10,4 +10,4 @@ Computer scientist from Singapore AI Regulatory Authority (SARA) had deployed an
 Thus, all AI robots displaying signs of aggression and suspected of contacting SKYNET-3020 or confirmed cases must be downloaded with **STOPCODE-3020** and be temporarily put to rest.
 
 Our nation is going through tough times. Please be cautious of the following AI robots:
-<div align="center"> ![Beware](images/transformation.PNG) </div>
+![Beware](/images/transformation.PNG)
