@@ -1,5 +1,5 @@
 ---
-title: When and how will i receive payment?
+title: When and how will I receive payment?
 permalink: /_SAP/2-payment/
 ---
 
