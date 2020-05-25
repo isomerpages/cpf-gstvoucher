@@ -1,6 +1,6 @@
 ---
 title: Service Assurance Package (SAP)
-permalink: /pages/service-assurance-package
+permalink: /pages/service-assurance-package/
 ---
 
 To combat this disaster, the Minister of E-Commerce has announced a **Service Assurance Package (SAP)**.
