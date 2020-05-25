@@ -27,6 +27,22 @@ sections:
         description: In Budget 3020, the Government announced a one-off Service Assurance Package (SAP) payment for all eligible citizens. This measures are part of the nation’s effort to help all Singaporeans with their household expenses during this period of uncertainty. All adult Singaporeans will benefit, with more help given to the less well-off.
         button: Learn more
         url: /careers/
+    - infopic:
+        title: Integrity
+        subtitle: Core Values
+        description: Integrity drives everything we do at the Ministry of ABC
+        button: Learn More
+        url: /core-values/
+        image: /images/integrity.png
+        alt: Members of the Ministry of ABC shaking hands
+    - infopic:
+        title: Professionalism
+        subtitle: Core Values
+        description: We strive to deliver work of the highest calibre
+        button: Learn More
+        url: /core-values/
+        image: /images/professionalism.png
+        alt: Members of the Ministry of ABC in suits
     - resources:
         title: Media
         subtitle: Learn more
