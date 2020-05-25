@@ -8,7 +8,7 @@ sections:
     - hero:
         title: Service Assurance Package (SAP)
         subtitle: Providing Assurance to the People
-        background: /images/hero-banner.png
+        background: /images/SAP_banner.jpg
         url: /contact-us/
         button: Click here to Login to eService
         key_highlights:
