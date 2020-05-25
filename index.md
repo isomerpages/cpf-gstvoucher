@@ -1,30 +1,30 @@
 ---
 layout: homepage
-title: Scheme ABC
+title: Service Assurance Package (SAP)
 description: Brief site description here
-image: /images/SchemeABClogo.svg
+image: /images/SAP_banner.jpg
 permalink: /
-notification: On 1st jan 2300, the Boss announced Scheme ABC
+notification: BREAKING NEWS: 200 more AI robots diagnosed with SKYNET-3020 as new cases in Singapore edged up to 52,000
 sections:
     - hero:
-        title: Scheme ABC
+        title: Service Assurance Package (SAP)
         subtitle: Providing Assurance to the People
-        background: /images/Scheme ABC banner 2.jpg
+        background: /images/SAP_banner.jpg
         button: Click here to Login to eService
         url: /contact-us/
         key_highlights:
-            - title: How Much Will I Receive?
-              description: Login to find out! 
-            - title: How Do I Receive Payment?
-              description: Login to update your payment instruction
+            - title: What happened?
+              description: Click here to find out! 
+            - title: How much will i receive?
+              description: Login to find out!
             - title: Have a Question?
               description: Login to ask us!             
     - infobar:
         title: Support And Assurance for All
-        subtitle: BUDGET 2300
-        description: As announced on 1 Jan 2300, the Sector will enhance the introduce the Assurance and Support Package to provide more assurance and support to Singaporeans who are concerned about coping with their household expenses during this period of extraordinary economic uncertainty. All adult Singaporeans will benefit, with more help given to the less well-off.
+        subtitle: BUDGET 3020
+        description: In Budget 3020, the Government announced a one-off Service Assurance Package (SAP) payment for all eligible citizens. This measures are part of the nation’s effort to help all Singaporeans with their household expenses during this period of uncertainty. All adult Singaporeans will benefit, with more help given to the less well-off.
     - resources:
-        title: Learn more about the other schemes here
+        title: Learn more about the other schemes and latest news here
         subtitle:
         button: View More
 ---
