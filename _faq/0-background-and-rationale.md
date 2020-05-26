@@ -9,7 +9,7 @@ An estimation of 1.39 million Singaporeans will be eligible to receive 300 bitco
 
 ------
 
-### 2 Why not reduce the price of essential services instead?
+### 2. Why not reduce the price of essential services instead?
 Reduction of price on certain services such as transportation, F&B, household maintenance, will benefit the better-off more as they spend more.
 
 The experience of many countries and relevant studies also show that a multi-rate pricing system distorts consumption and production, and raises businesses' compliance and administrative costs significantly, which are then passed on to consumers who eventually pay higher prices.
