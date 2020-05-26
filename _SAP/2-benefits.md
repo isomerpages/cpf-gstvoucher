@@ -1,6 +1,6 @@
 ---
 title: What are my benefits?
-permalink: /_SAP/1-benefits/
+permalink: /_SAP/2-benefits/
 ---
 
 Singaporeans with lower income per annum will receive more payout. 
