@@ -18,14 +18,14 @@ sections:
               url: /pages/what-happened/
             - title: How much will i receive?
               description: Login to find out!
-              url: /_SAP/1-benefits/
+              url: /_SAP/2-benefits/
             - title: Have a Question?
               description: Login to ask us!
               url: https://www.gstvoucher.gov.sg/Pages/index.aspx
     - infobar:
         title: Support And Assurance for All
         subtitle: BUDGET 3020
-        description: In Budget 3020, the Government announced a one-off Service Assurance Package (SAP) payment for all eligible citizens. This measures are part of the nation’s effort to help all Singaporeans with their household expenses during this period of uncertainty. All adult Singaporeans will benefit, with more help given to the less well-off.
+        description: In Budget 3020, the Government announced a one-off Service Assurance Package (SAP) payment for all eligible citizens. This measures are part of the nation’s effort to help all Singaporeans with their household expenses during this period of uncertainty. Most adult Singaporeans will benefit, with more help given to the less well-off.
         button: Learn more
         url: /careers/
     - infopic:
