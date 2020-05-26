@@ -1,6 +1,6 @@
 ---
 title: Who can get SAP?
-permalink: /_SAP/2-eligibility
+permalink: /_SAP/1-eligibility
 ---
 
 To receive the Service Assurance Package (SAP) bitcoins, you must fulfil the following criteria:
