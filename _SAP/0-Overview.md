@@ -8,6 +8,6 @@ As transportation system, F&B industry, household maintenance are impacted, citi
 These services were obsoleted since 2,100 but had been revived as 50% of nation’s AI robots had been temporarily shut down.
 
 This will provide more assurance and support to Singaporeans who are concerned about coping with their household expenses during this period of extraordinary economic uncertainty. 
-All adult Singaporeans will benefit, with more help given to the less well-off.
+Most adult Singaporeans will benefit, with more help given to the less well-off.
 
 ![SAP-logo](/images/handshake.PNG)
