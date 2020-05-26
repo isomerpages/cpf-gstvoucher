@@ -7,6 +7,8 @@ permalink: /faq/background-and-rationale/
 The Service Assurance Package (SAP) was introduced by the Government in Budget 3020 to help lower-income Singaporeans.
 An estimation of 1.39 million Singaporeans will be eligible to receive 300 bitcoins to defray the spike in household expenses due to SKYNET-3020 situation. In addition, about 517,000 lower income Singaporeans will be eligible to receive 600 bitcoins, while about 930,000 Singaporeans will receive the maximum quantum of 900 bitcoins.
 
+------
+
 ### 2 Why not reduce the price of essential services instead?
 Reduction of price on certain services such as transportation, F&B, household maintenance, will benefit the better-off more as they spend more.
 
