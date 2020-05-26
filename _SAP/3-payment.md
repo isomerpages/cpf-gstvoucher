@@ -1,6 +1,6 @@
 ---
 title: When and how will I receive payment?
-permalink: /_SAP/2-payment/
+permalink: /_SAP/3-payment/
 ---
 
 Payments will be made in **10 March 3020**. 
