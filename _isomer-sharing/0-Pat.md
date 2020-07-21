@@ -12,7 +12,7 @@ Step | What to do
 1 | At the main configuration page, click **Add File > Create New File"**
 2 | On top of the content editor box, you see **cpf-gstvoucher/**. This is the folder name. Key in **"_isomer-sharing/your name.md"**
 3 | Copy lines 1 to 4 from an existing page which includes the **title** and **permalink**. Format is very important. Make sure you copy and paste. 
-4 | Change the **Title** and **permalink** 
+4 | Change the **Title** and **permalink** to reflect your name. 
 5 | Add in content
 6 | Click **Preview changes** to see if the content is okie
 7 | Scroll down and click **Commit New File**
