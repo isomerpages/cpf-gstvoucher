@@ -21,6 +21,7 @@ Step | What to do
 
 ### It is important to number the pages such that the pages will be displayed in sequence. Format will be 0-, 1-, 2- etc. Can also have 1a-, 1b-. 
 For today, use the numbers below: 
+
 Name | Number to use 
 :---|:---
 Cecilia | 1
