@@ -27,6 +27,8 @@ collections:
     output: true
   SAP:
     output: true
+  isomer-sharing:
+    output: true
 
 
     
