@@ -17,13 +17,15 @@ Step | What to do
 6 | Click **Preview changes** to see if the content is okie
 7 | Scroll down and click **Commit New File**
 
-> It is important to number the pages such that the pages will be displayed in sequence. Format will be 0-, 1-, 2- etc. Can also have 1a-, 1b-. 
-> For today, use the numbers below: 
-> Name | Number to use 
-> :---|:---
-> Cecilia | 1
-> Angeline | 2 
-> Linda | 3 
-> Cheng Ting | 4
-> Lan Si | 5 
-> Lydia | 6
+------
+
+### It is important to number the pages such that the pages will be displayed in sequence. Format will be 0-, 1-, 2- etc. Can also have 1a-, 1b-. 
+For today, use the numbers below: 
+Name | Number to use 
+:---|:---
+Cecilia | 1
+Angeline | 2 
+Linda | 3 
+Cheng Ting | 4
+Lan Si | 5 
+Lydia | 6
