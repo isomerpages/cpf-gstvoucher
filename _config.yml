@@ -23,12 +23,9 @@ resources_name: media-releases
 collections:
   faq:
     output: true
-  test:
-    output: true
   SAP:
     output: true
-  isomer-sharing:
-    output: true
+
 
 
     
