@@ -17,8 +17,4 @@ links:
     url: /contact-us/
   - title: Login
     url: https://api.dev.cdwebportal-uat.gov.sg/auth/v1/authorize/gstvoucher
-  - title: Isomer Test
-    collection: isomer-sharing
-  - title: Test
-    collection: test
     
