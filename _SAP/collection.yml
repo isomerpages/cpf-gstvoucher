@@ -1,0 +1,8 @@
+collections:
+  SAP:
+    output: true
+    order:
+      - service-assurance-package-sap.md
+      - who-can-get-sap.md
+      - what-are-my-benefits.md
+      - when-and-how-will-i-receive-payment.md

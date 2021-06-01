@@ -1,0 +1,10 @@
+collections:
+  faq:
+    output: true
+    order:
+      - background-and-rationale.md
+      - annual-value.md
+      - assessable-income.md
+      - ownership-of-multiple-spaceships.md
+      - citizenship.md
+      - others-further-enquiries.md

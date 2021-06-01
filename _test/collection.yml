@@ -1,0 +1,13 @@
+collections:
+  test:
+    output: false
+    order:
+      - chroma-ray-s-page.md
+      - aaron-test-page.md
+      - hello-world.md
+      - test-page.md
+      - hello-world.md
+      - lisa-s-test-page.md
+      - pat-s-test-page.md
+      - qx-page.md
+      - tgoh-test-page.md
