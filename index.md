@@ -9,7 +9,6 @@ sections:
         title: Service Assurance Package (SAP)
         subtitle: Providing Assurance to the People
         background: /images/SAP_banner.jpg
-        url: /contact-us/
         button: Click here to Login to eService
         url: https://api.dev.cdwebportal-uat.gov.sg/auth/v1/authorize/gstvoucher
         key_highlights:
