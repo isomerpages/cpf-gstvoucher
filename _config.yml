@@ -4,26 +4,26 @@ favicon: /images/favicon-isomer.ico
 
 # Site colors
 colors:
-  primary-color: '#6031b6'
-  secondary-color: '#4372d6'
+  primary-color: '#25245D'
+  secondary-color: '#571C56'
   media-colors:
     - title: media-color-one
-      color: '#49759a'
+      color: '#1A5678'
     - title: media-color-two
-      color: '#744d9f'
+      color: '#159097'
     - title: media-color-three
-      color: '#00838f'
+      color: '#38A48C'
     - title: media-color-four
-      color: '#00838f'
+      color: '#F8D092'
     - title: media-color-five
-      color: '#00838f'
+      color: '#E98E86'
 
-
-collections:
-  faq:
-    output: true
 resources_name: media-releases
 
+
+
+
+    
 ##################################################################################################################
 # Everything below this line is Isomer-specific configuration. There should not be a need to edit these settings #
 ##################################################################################################################
@@ -42,10 +42,13 @@ custom_print_css_path: "/assets/css/print.css"
 paginate: 12
 remote_theme: isomerpages/isomerpages-template@next-gen
 safe: false
+description: test test
+
+staging: https://cpf-gstvoucher-staging.netlify.app
+prod: https://cpf-gstvoucher-prod.netlify.app
 plugins:
   - jekyll-feed
   - jekyll-assets
   - jekyll-paginate
   - jekyll-sitemap
-description: test test
-
+  - jekyll-remote-theme
