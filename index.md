@@ -1,7 +1,7 @@
 ---
 layout: homepage
 title: Service Assurance Package (SAP)
-description: Brief description
+description: Brief test description
 permalink: /
 notification: BREAKING NEWS - 200 more AI robots diagnosed with SKYNET-3020 as new cases in Singapore edged up to 52,000
 sections:
