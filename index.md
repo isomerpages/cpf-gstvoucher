@@ -7,7 +7,7 @@ notification: BREAKING NEWS - 200 more AI robots diagnosed with SKYNET-3020 as n
 sections:
     - hero:
         title: Service Assurance Package (SAP)
-        subtitle: Providing Assurance to the People
+        subtitle: Providing Assurance to the Citizens
         background: /images/SAP_banner.jpg
         button: Click here to Login to eService
         url: https://api.dev.cdwebportal-uat.gov.sg/auth/v1/authorize/gstvoucher
